@@ -1,0 +1,8 @@
+[submodule "ext/modm"]
+	path = ext/modm
+	url = ssh://git@github.com/Javask/modm
+	branch = feature/cmake
+[submodule "ext/librobots2"]
+	path = ext/librobots2
+	url = ssh://git@git.roboterclub.rwth-aachen.de/rca/librobots2
+	branch = season2023
