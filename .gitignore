@@ -2,4 +2,5 @@ app/modm
 app/librobots2
 app/build
 *.log
+.vscode/
 CMakeLists.txt
